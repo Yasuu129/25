@@ -8,7 +8,7 @@ import string
 import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-from config import BOT_TOKEN, ADMIN_IDS, OWNER_USERNAME
+from config import 7090770789:AAFsmxFf2XVfoCmoC4QbT5SoKFxsb7TEwXA, 6512505568, iblameyasuuuuuuuuuuuuu 
 
 
 USER_FILE = "users.json"
@@ -18,7 +18,7 @@ flooding_process = None
 flooding_command = None
 
 
-DEFAULT_THREADS = 200
+DEFAULT_THREADS = 100
 
 
 users = {}
